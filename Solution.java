@@ -8,8 +8,6 @@ public class Solution {
 
 	public static void main(String args[] ) {
 
-
-
         Scanner inputScanner = new Scanner(System.in);
 
         Box box = new Box(inputScanner);
